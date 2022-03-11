@@ -20,7 +20,9 @@
 * Apache Tomcat v.8.5
 * Spring MVC를 이용한 웹페이지 제작 및 Rest API 작성
 * Maven을 활용한 의존성 라이브러리 관리
-
+* JavaScript를 활용한 DOM 조작
+* handlebar를 활용한 템플릿 작업
+* DB(MySQL)
 <br/>
 <br/>
 
