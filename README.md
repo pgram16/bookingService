@@ -36,7 +36,7 @@
 
 
 <details open>
-<summary><u>Example Value 보기</u></summary>
+<summary><u>Example Value 접기</u></summary>
 
 ```
    
@@ -65,7 +65,7 @@
     
 
 <details open>
-<summary>Example Value 보기</summary>
+<summary>Example Value </summary>
     
 ```
 {
@@ -168,7 +168,7 @@
 | GET | /api/reservations |
     
 <details open>
-<summary>Example Value 보기</summary>
+<summary>Example Value </summary>
     
 ```
 {
@@ -222,7 +222,7 @@
    
    
 <details open>
-<summary>Example Value 보기</summary>
+<summary>Example Value 접기</summary>
     
 ```
 /*Parameters*/
@@ -264,7 +264,7 @@
 | GET | /api/categories |
 
 <details open>
-<summary>Example Value 보기</summary>
+<summary>Example Value 접기</summary>
 
 ```
 [
@@ -288,7 +288,7 @@
 
 
 <details open>
-<summary>Example Value 보기</summary>
+<summary>Example Value 접기</summary>
 
 ```
 [
