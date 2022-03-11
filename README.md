@@ -346,7 +346,10 @@
 
 <br/>
 <br/>
+
 ## 참고
+
 부스트코스(https://www.boostcourse.org/) 교육과정
+
 <br/>
 <br/>
